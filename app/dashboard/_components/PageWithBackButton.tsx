@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button"
-import { AlignLeft, ArrowBigLeft, ArrowLeftIcon, ArrowRightLeft } from "lucide-react"
+import { ArrowLeftIcon } from "lucide-react"
 import Link from "next/link"
 
 
